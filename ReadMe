@@ -1,0 +1,5 @@
+To operate the program type 
+http://localhost:3000/index
+and youll see the requested page parsed, Additionaly you could put http://localhost:3000/parser/:year/:month to parse a selected year and month
+dates are not validated
+
